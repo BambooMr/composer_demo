@@ -1,0 +1,17 @@
+{
+    "name": "bamboo/composer_demo",
+    "autoload": {
+        "psr-4": {
+            "Bamboo\\ComposerDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhuyongfeng",
+            "email": "zhuyongfeng@hdedu.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^3.0"
+    }
+}
